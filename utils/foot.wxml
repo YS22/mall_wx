@@ -1,0 +1,5 @@
+<template name="foot">
+  <navigator class="page-foot"  url="/pages/about/about" hover-class="none">
+    使用说明
+  </navigator>
+</template>
